@@ -353,11 +353,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ---
 
-## 🙋 Author
-
-**Umer Ulla**  
-[GitHub](https://github.com/umerulla) · [LinkedIn](https://linkedin.com/in/umerulla)
-
----
-
-*If you found this project useful, please consider giving it a ⭐ on GitHub!*
